@@ -31,5 +31,5 @@ DATABASE_URL=postgresql://username:password@localhost:5432/nama_database
 3. Jalankan aplikasi: `npm run dev`
 
 ## 👤 Author
-**Hezkiel Rajani Aritonang**
+**Hezkiel Rajani Aritonang 123140118**
 *Informatics Engineering Student - Institut Teknologi Sumatera (ITERA)*
